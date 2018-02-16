@@ -19,3 +19,23 @@
   align-items: center;
   padding: 20px;
 }
+.bins-wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 20px;
+  margin-left: 20%;
+}
+.bins{
+  height: 60px;
+  width: 470px;
+  background: #ED6B5A;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  align-items: center;
+  display: flex;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+}
