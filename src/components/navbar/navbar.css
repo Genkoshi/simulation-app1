@@ -1,0 +1,39 @@
+.nav-wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-main{
+    height: 10vh;
+    width: 100%;
+    background: #AB2A19;
+    font-size: 30px;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.navbar-main img {
+    margin-right: 10px;
+}
+
+.nav-main-change {
+    background: #AB2A19;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    width: 20%;
+}
+.id-a{
+    display: flex;
+    height: 10vh;
+    width: 80%;
+    background: #D34735;
+    color: white;
+    align-items: center;
+    font-size: 30px;
+    padding-left: 20px;
+}

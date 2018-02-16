@@ -1,0 +1,21 @@
+/* 22C-2 */
+.shelves{
+  height: 60px;
+  width: 470px;
+  background: #D34735;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  align-items: center;
+  display: flex;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding-left: 30px;
+}
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+}
